@@ -1,4 +1,4 @@
-class ReDock < Formula
+class Redock < Formula
     desc "A simple CLI tool replace macOS app icons from a png"
     homepage "https://github.com/kb24x7/redock"
     url "https://github.com/kb24x7/redock/releases/download/v1.2.0/redock.tar.gz"
